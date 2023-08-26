@@ -1,0 +1,14 @@
+D:\skola\Github\MyFirstRepo\MyFirstRepo\MyFirstRepo\bin\Debug\net7.0\MyFirstRepo.exe
+D:\skola\Github\MyFirstRepo\MyFirstRepo\MyFirstRepo\bin\Debug\net7.0\MyFirstRepo.deps.json
+D:\skola\Github\MyFirstRepo\MyFirstRepo\MyFirstRepo\bin\Debug\net7.0\MyFirstRepo.runtimeconfig.json
+D:\skola\Github\MyFirstRepo\MyFirstRepo\MyFirstRepo\bin\Debug\net7.0\MyFirstRepo.dll
+D:\skola\Github\MyFirstRepo\MyFirstRepo\MyFirstRepo\bin\Debug\net7.0\MyFirstRepo.pdb
+D:\skola\Github\MyFirstRepo\MyFirstRepo\MyFirstRepo\obj\Debug\net7.0\MyFirstRepo.GeneratedMSBuildEditorConfig.editorconfig
+D:\skola\Github\MyFirstRepo\MyFirstRepo\MyFirstRepo\obj\Debug\net7.0\MyFirstRepo.AssemblyInfoInputs.cache
+D:\skola\Github\MyFirstRepo\MyFirstRepo\MyFirstRepo\obj\Debug\net7.0\MyFirstRepo.AssemblyInfo.cs
+D:\skola\Github\MyFirstRepo\MyFirstRepo\MyFirstRepo\obj\Debug\net7.0\MyFirstRepo.csproj.CoreCompileInputs.cache
+D:\skola\Github\MyFirstRepo\MyFirstRepo\MyFirstRepo\obj\Debug\net7.0\MyFirstRepo.dll
+D:\skola\Github\MyFirstRepo\MyFirstRepo\MyFirstRepo\obj\Debug\net7.0\refint\MyFirstRepo.dll
+D:\skola\Github\MyFirstRepo\MyFirstRepo\MyFirstRepo\obj\Debug\net7.0\MyFirstRepo.pdb
+D:\skola\Github\MyFirstRepo\MyFirstRepo\MyFirstRepo\obj\Debug\net7.0\MyFirstRepo.genruntimeconfig.cache
+D:\skola\Github\MyFirstRepo\MyFirstRepo\MyFirstRepo\obj\Debug\net7.0\ref\MyFirstRepo.dll
